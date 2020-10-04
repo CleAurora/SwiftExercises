@@ -19,12 +19,12 @@ Exercícios para treinar Modal, Push, TableView e CollectionView
 - Tenha uma collectionview com 10 carros na vertical;
 - Cada célula deve ter o nome e a imagem do carro; (pode repetir a mesma imagem)
 - Quando tocar numa celula, deve abrir uma tela via navigation (push), nessa tela deve haver a imagem grande.
-![](Ex3Car.png)
-![](Ex3CarPush.png)
+![](Ex3Cars.png)
+![](Ex3CarsPush.png)
 
 
 04 - Criar um app:
 - Tenha uma collectionview com 20 nomes na horizontal;
 - Cada célula deve ter um nome numa label, e o background da celula ser cinza fraco;
 - Ao tocar na celula, reve remover ela da collectionview, do array e recarregar.
-![](Ex4Names)
+![](Ex4Names.png)
